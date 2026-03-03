@@ -60,15 +60,15 @@ That’s why I’m eager to work on projects like <strong>[insert project types 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kulbriz233&show_icons=true&theme=tokyonight" alt="kulbriz233's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=augustine-ninyung&show_icons=true&theme=tokyonight" alt="kulbriz233's GitHub stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kulbriz233&theme=tokyonight" alt="kulbriz233's GitHub streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=augustine-ninyung&theme=tokyonight" alt="kulbriz233's GitHub streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kulbriz233&layout=compact&theme=tokyonight" alt="kulbriz233's Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustine-ninyung&layout=compact&theme=tokyonight" alt="kulbriz233's Top Languages"/>
 </p>
 
 
@@ -78,13 +78,13 @@ That’s why I’m eager to work on projects like <strong>[insert project types 
 
 > Here are a few things I’ve worked on recently:
 
-- 🔐 **[Cocktail Web App](https://github.com/kulbriz233/Tip_Joourney_1.git)**  
+- 🔐 **[Cocktail Web App](https://github.com/augustine-ninyung/Tip_Joourney_1.git)**  
   Built with React + Firebase Auth to explore user auth best practices.
 
-- 🧾 **[Python Studies](https://github.com/kulbriz233/Learning_Python.git)**  
+- 🧾 **[Python Studies](https://github.com/augustine-ninyungkulbriz233/Learning_Python.git)**  
   A study journey I started to polish my pyhton skills.
 
-- 🌐 **[Responsive Portfolio Website](https://github.com/kulbriz233/Portfolio.git)**  
+- 🌐 **[Responsive Portfolio Website](https://github.com/augustine-ninyung/Portfolio.git)**  
   A personal portfolio built with HTML, CSS, and a touch of JavaScript — accessible and responsive. But yet to be started
 
 ---
